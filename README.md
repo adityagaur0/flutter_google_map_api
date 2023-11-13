@@ -51,7 +51,7 @@ import GoogleMaps
   <img width="632" alt="Screenshot 2023-11-13 at 5 29 37 PM" src="https://github.com/adityagaur0/google_map_api/assets/112656570/f746e9e3-0128-4bb5-aee7-183a88d6d170">
 
 6. convert coordinates(Lat/Long) to address in Flutter
-  - add dependencies [geocoding: ^2.1.1]([https://pub.dev/packages/flutter_geocoder/versions](https://pub.dev/packages/geocoding))  convert latitude and longitude to address and vice versa.\
+  - add dependencies [geocoding: ^2.1.1](https://pub.dev/packages/geocoding) convert latitude and longitude to address and vice versa.\
     
    <img width="694" alt="Screenshot 2023-11-13 at 6 12 17 PM" src="https://github.com/adityagaur0/google_map_api/assets/112656570/2398b30e-b621-4281-878c-9837dfda6b53">
 
