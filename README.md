@@ -6,8 +6,8 @@
   - Set the minSdkVersion in android/app/build.gradle:
   - Specify your API key in the application manifest android/app/src/main/AndroidManifest.xml:
     `<manifest ...
-  <application ...
-    <meta-data android:name="com.google.android.geo.API_KEY"
-               android:value="YOUR KEY HERE"/>`
+      <application ...
+        <meta-data android:name="com.google.android.geo.API_KEY"
+                 android:value="YOUR KEY HERE"/>`
     
 4. 
