@@ -39,6 +39,10 @@ import GoogleMaps
 
      <img width="914" alt="Screenshot 2023-11-13 at 5 03 37 PM" src="https://github.com/adityagaur0/google_map_api/assets/112656570/ee4f8c01-2b2b-445d-8cf9-68dc9904a868">
 
-   -
+4. Add multiple marker on google map
+   <img width="461" alt="Screenshot 2023-11-13 at 5 16 05 PM" src="https://github.com/adityagaur0/google_map_api/assets/112656570/ae27c3a4-e462-
+   <img width="272" alt="Screenshot 2023-11-13 at 5 16 30 PM" src="https://github.com/adityagaur0/google_map_api/assets/112656570/6c6a1469-3516-4395-9554-4a59d1a49349">
+41c3-b76b-7869529f5a9b">
+
 
 
