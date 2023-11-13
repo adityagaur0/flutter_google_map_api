@@ -2,7 +2,7 @@
 
 1. create project in google map console and  enable api (map for android and map for ios in google cloud console)
 2. Setting up the project with google map api console.
-  - add dependencies https://pub.dev/packages/google_maps_flutter
+  - add dependencies [https://pub.dev/packages/google_maps_flutter]
   - Set the minSdkVersion in android/app/build.gradle:
   - Specify your API key in the application manifest android/app/src/main/AndroidManifest.xml:
 ```
@@ -46,5 +46,10 @@ import GoogleMaps
    <img width="272" alt="Screenshot 2023-11-13 at 5 16 30 PM" src="https://github.com/adityagaur0/google_map_api/assets/112656570/6c6a1469-3516-4395-9554-4a59d1a49349">
 
 
+5. Animate camera to move at any position in the map
+   
+  <img width="632" alt="Screenshot 2023-11-13 at 5 29 37 PM" src="https://github.com/adityagaur0/google_map_api/assets/112656570/f746e9e3-0128-4bb5-aee7-183a88d6d170">
 
+6. convert coordinates(Lat/Long) to address in Flutter
+  - add dependencies [flutter_geocoder: ^0.2.2-nullsafety](https://pub.dev/packages/flutter_geocoder/versions)
 
