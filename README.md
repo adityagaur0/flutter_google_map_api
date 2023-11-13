@@ -11,8 +11,7 @@
     <meta-data android:name="com.google.android.geo.API_KEY"
                android:value="YOUR KEY HERE"/>
 ```
-`
-
+2/
     - for ios,in your swift code, specify your API key in the application delegate ios/Runner/AppDelegate.swift:
     
 ```
