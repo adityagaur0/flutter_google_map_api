@@ -171,3 +171,6 @@ class _GooglePlaceApiState extends State<GooglePlaceApi> {
 }
 
 ```
+
+
+##9. Flutter Add Multiple Custom Marker On Google Map Like Snapchap
