@@ -59,11 +59,21 @@ import GoogleMaps
 
 7. Flutter Get user current location and show on marker with address
 
-- take user permissions. to enable location
+- take user permissions. to enable location android.
   ```
   <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
   <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
   <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
   ```
 
-
+ios Permissions
+```
+<key>NSLocationAlwaysAndWhenInUsageDescription</key>
+	<string>App app want's to access your location to get address</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>App app want's to access your location to get address.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>App app want's to access your location to get address.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string> App want's to access your location to get address.</string>
+```
