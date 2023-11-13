@@ -77,3 +77,8 @@ ios Permissions
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string> App want's to access your location to get address.</string>
 ```
+- add dependencies [geolocator: ^10.1.0](https://pub.dev/packages/geocoding)
+  
+<img width="741" alt="Screenshot 2023-11-13 at 7 06 23 PM" src="https://github.com/adityagaur0/google_map_api/assets/112656570/a4345183-1d21-4d2b-952b-82b4173454d0">
+<img width="330" alt="Screenshot 2023-11-13 at 7 06 46 PM" src="https://github.com/adityagaur0/google_map_api/assets/112656570/8486b8f0-0077-4933-8ada-daf7f002389c">
+
