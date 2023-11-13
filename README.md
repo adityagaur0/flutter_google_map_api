@@ -57,6 +57,13 @@ import GoogleMaps
 
 <img width="332" alt="Screenshot 2023-11-13 at 5 59 26 PM" src="https://github.com/adityagaur0/google_map_api/assets/112656570/490127fd-58eb-447c-a768-e0cc2305db14">
 
-7. 
+7. Flutter Get user current location and show on marker with address
+
+- take user permissions. to enable location
+  ```
+  <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+  <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+  <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+  ```
 
 
