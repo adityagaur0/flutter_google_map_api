@@ -31,5 +31,24 @@ import GoogleMaps
   }
 }
 ```
-  -
-4. 
+  - update the dependencies for ios tooo.
+    go to terminal-> cd ios -> pod update (after install get out of the folder) -> cd ..
+    
+3. Flutter Integrating Google Map with null safety(make sure ur emulator is connected to internet).
+   - To get the inital position of the camera
+     ```
+     class _HomePageState extends State<HomePage> {
+  static const CameraPosition _kGooglePlex = CameraPosition(
+    target: LatLng(28.450872845415056, 77.58422999183854),
+    zoom: 14.4746,
+  );
+  @override
+  Widget build(BuildContext context) {
+    return const Scaffold(
+      body: GoogleMap(
+        initialCameraPosition: _kGooglePlex,
+      ), //inital position of the google map location.
+    );
+  }
+}
+     ```
