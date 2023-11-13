@@ -89,8 +89,8 @@ ios Permissions
 8. Flutter Google Map Auto Complete Places API ***IMPPPPPPP
    - add dependencies  [UUID](https://pub.dev/packages/uuid) and [HTTP](https://pub.dev/packages/http)
    - uuid get Device unique id.
-   ```
-   class _GooglePlaceApiState extends State<GooglePlaceApi> {
+```
+class _GooglePlaceApiState extends State<GooglePlaceApi> {
   TextEditingController _controller = TextEditingController();
   var uuid = Uuid();
   String _sessionToken = '1234';
@@ -170,5 +170,4 @@ ios Permissions
   }
 }
 
-
-   ```
+```
