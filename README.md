@@ -36,6 +36,9 @@ import GoogleMaps
     
 3. Flutter Integrating Google Map with null safety(make sure ur emulator is connected to internet).
    - To get the inital position of the camera
-     <img width="604" alt="Screenshot 2023-11-13 at 4 45 17 PM" src="https://github.com/adityagaur0/google_map_api/assets/112656570/ec6a3ad8-f05f-46e3-9721-d14937ad4668">
+
+     <img width="914" alt="Screenshot 2023-11-13 at 5 03 37 PM" src="https://github.com/adityagaur0/google_map_api/assets/112656570/ee4f8c01-2b2b-445d-8cf9-68dc9904a868">
+
+   -
 
 
