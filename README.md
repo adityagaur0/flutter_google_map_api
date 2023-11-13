@@ -174,3 +174,11 @@ class _GooglePlaceApiState extends State<GooglePlaceApi> {
 
 
 ## 9. Flutter Add Multiple Custom Marker On Google Map Like Snapchap
+
+## 10. Flutter Google Map Marker Custom Info window
+
+## 11. Flutter Draw Polygon On Google Map
+
+## 12. Flutter Polyline || Adding Route Polylines to Google Maps
+
+
