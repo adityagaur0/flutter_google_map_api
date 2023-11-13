@@ -44,4 +44,3 @@ app.*.map.json
 /android/app/release
 
 lib/keys/apikey.dart
-android/app/src/main/AndroidManifest.xml
